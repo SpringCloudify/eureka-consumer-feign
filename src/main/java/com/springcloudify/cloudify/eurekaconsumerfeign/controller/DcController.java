@@ -1,6 +1,6 @@
-package com.springcloudify.cloudy.eurekaconsumerfeign.controller;
+package com.springcloudify.cloudify.eurekaconsumerfeign.controller;
 
-import com.springcloudify.cloudy.eurekaconsumerfeign.restInterface.DcClient;
+import com.springcloudify.cloudify.eurekaconsumerfeign.restInterface.DcClient;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.RestController;

@@ -1,4 +1,4 @@
-package com.springcloudify.cloudy.eurekaconsumerfeign;
+package com.springcloudify.cloudify.eurekaconsumerfeign;
 
 import org.junit.Test;
 import org.junit.runner.RunWith;

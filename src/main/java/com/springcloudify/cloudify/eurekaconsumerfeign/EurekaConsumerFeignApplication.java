@@ -1,4 +1,4 @@
-package com.springcloudify.cloudy.eurekaconsumerfeign;
+package com.springcloudify.cloudify.eurekaconsumerfeign;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.cloud.client.SpringCloudApplication;

@@ -1,4 +1,4 @@
-package com.springcloudify.cloudy.eurekaconsumerfeign.restInterface;
+package com.springcloudify.cloudify.eurekaconsumerfeign.restInterface;
 
 import org.springframework.cloud.openfeign.FeignClient;
 import org.springframework.web.bind.annotation.GetMapping;
